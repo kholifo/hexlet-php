@@ -1,0 +1,15 @@
+{
+    "name": "hex/example",
+    "description": "example package",
+    "autoload": {
+        "psr-4": {
+            "Hex\\Example\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kholifo"
+        }
+    ],
+    "require": {}
+}
