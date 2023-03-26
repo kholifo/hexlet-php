@@ -1,2 +1,1 @@
-# hexlet-php
-again, again, and again
+My first project on hexlet
